@@ -1,3 +1,4 @@
+## Conflict solve steps
 First Side | Second Side
 ---------- | ----------
 Make a File and push it| Edit the file and push
