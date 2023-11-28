@@ -1,11 +1,7 @@
 console.log("back-end");
-
-prompt("ss");
 console.log("ziyad is "); 
 console.log("زياد 2");
 console.log("no sus ");
-
-
-// hello 
-
-
+for(let i = 0; i<100;i++){
+    console.log(i*2);
+};
